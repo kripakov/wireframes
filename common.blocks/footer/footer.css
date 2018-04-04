@@ -1,0 +1,10 @@
+.footer{
+	background-color: #565d67;
+	height: 155px;
+	line-height: 155px;
+	text-align: center;
+}
+.footer-wrap{
+	margin: 0 auto;
+    max-width: 900px
+}

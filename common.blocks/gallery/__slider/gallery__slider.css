@@ -1,0 +1,28 @@
+.gallery__slider{
+    margin: 0 auto;
+}
+.gallery__slider .bx-wrapper{
+	border: none;
+	box-shadow: none;
+	margin: 0 auto;
+}
+.bx-wrapper img{
+	margin: 0 auto;
+}
+.gallery__slider #slider-next a, .gallery__slider #slider-prev a{
+	position: absolute;
+	background-image: url(../../../img/right.png);
+	display: block;
+	height: 105px;
+	width: 33px;
+    right: 6%;
+    top: 19%;
+    background-position: 100%;
+}
+.gallery__slider #slider-prev a{
+	background-image: url(../../../img/left.png);
+    left: 6%;
+}
+.slider-content{
+	text-align: center;
+}

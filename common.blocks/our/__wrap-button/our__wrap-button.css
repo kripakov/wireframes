@@ -1,0 +1,13 @@
+.our__wrap-button button{
+	height: 35px;
+    width: 85px;
+    background-color: #fff;
+    border: 2px solid #CCC;
+    cursor: pointer;
+    border-radius: 2px;
+    text-transform: uppercase;
+    font-family: 'Titillium-Regular'
+}
+.our__wrap-button button:not(:last-child){
+	margin-right: 15px
+}

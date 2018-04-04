@@ -1,0 +1,9 @@
+.subscribe{
+	position: relative;
+	height: 290px;
+	line-height: 290px;
+    text-align: center;
+    background-color: #ffffff;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}

@@ -1,0 +1,15 @@
+.slider-content__social{
+	padding: 0;
+	margin-top: 30px
+}
+.slider-content__social li{
+	text-decoration: none;
+	list-style-type: none;
+	display: inline-block;
+}
+.slider-content__social li:first-child{
+	margin-right: 20px
+}
+.slider-content__social ul{
+	padding: 0
+}

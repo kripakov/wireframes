@@ -1,0 +1,6 @@
+.photo__header-text{
+	float: left;
+	text-transform: uppercase;
+	font-family: 'TitilliumWeb-Bold';
+	margin-bottom: 30px
+}

@@ -1,0 +1,10 @@
+.statistics__wrap{
+	margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    max-width: 1000px;
+}
+.statistics__wrap .circle{
+	float: left;
+	text-align: center;
+}

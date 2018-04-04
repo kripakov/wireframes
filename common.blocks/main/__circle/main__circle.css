@@ -1,0 +1,19 @@
+.main__circle:not(:last-child){
+
+}
+.main__circle:before{
+	content: ' \25CF';
+    font-size: 120px;
+    position: relative;
+    top: 40px;
+    color: #cdcdcd;
+}
+.number__circle{
+	font-size: 28px;
+	font-family: 'TitilliumWeb-Bold';
+	margin: 35px 0 10px 0;
+}
+.text__circle{
+	font-size: 16px;
+	font-family: 'TitilliumWeb-Light'
+}

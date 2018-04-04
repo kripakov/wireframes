@@ -1,0 +1,7 @@
+.grid{
+    width: 950px;
+    margin: 85px auto;
+}
+.grid .item{
+	display: inline-block;
+}

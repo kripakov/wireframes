@@ -1,0 +1,10 @@
+.subscribe__title{
+	width: 100%;
+	font-size: 32px;
+    margin: 0;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+    padding-bottom: 20px;
+	font-family: 'Titillium-Regular';
+}

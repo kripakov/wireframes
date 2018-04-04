@@ -1,0 +1,17 @@
+.testimonials__product{
+	max-width: 1000px;
+	padding: 95px 0 95px 0;
+}
+.wrap-product{
+	display: flex;
+	justify-content: space-between;
+}
+.product-element__number{
+	font-family: 'Titillium-Regular';
+	font-size: 64px;
+}
+.product-element__text{
+	font-family: 'TitilliumWeb-Light';
+	font-size: 16px;
+	text-align: center;
+}

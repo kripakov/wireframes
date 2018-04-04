@@ -1,0 +1,10 @@
+.plan__button{
+    width: 160px;
+    padding: 9px 0 9px 0;
+	color: #fff;
+    text-transform: uppercase;
+    margin-bottom: 55px
+}
+.button_theme_islands:before:hover{
+	background-color: #bfc2c5 !important;
+}

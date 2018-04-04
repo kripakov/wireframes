@@ -1,0 +1,16 @@
+.provide__review-left{
+	font-family: 'TitilliumWeb-Italic';
+	font-size: 19px;
+	margin-bottom: 25px;
+		text-align: left;	
+}
+.provide__review-left:before{
+	content: "";
+    position: relative;
+    display: block;
+    height: 100px;
+    width: 100px;
+    background: url(staff.png) no-repeat;
+    top: 78px;
+    left: -95px;
+}

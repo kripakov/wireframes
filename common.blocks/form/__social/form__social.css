@@ -1,0 +1,16 @@
+.form__social{
+	margin-top: 50px
+}
+.form__social ul{
+	padding: 0
+}
+.form__social li{
+	display: inline-block;
+	margin-right: 30px;
+}
+.form__social a{
+	display: block;
+    height: 62px;
+    width: 61px;
+    cursor: pointer;
+}

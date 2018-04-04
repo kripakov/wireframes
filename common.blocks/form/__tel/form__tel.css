@@ -1,0 +1,8 @@
+.form__tel{
+	font-size: 22px;
+	font-family: 'Titillium-Regular';
+
+}
+.form__tel:last-child{
+	margin-bottom: 55px
+}

@@ -1,0 +1,11 @@
+.footer__button-white{
+	width: 155px;
+    padding: 15px 0 15px 0;
+    color: #000;
+    border: 1px solid #000;
+    text-transform: uppercase;
+    margin-left: 20px
+}
+.footer__button-white:before{
+	background-color: #fff;
+}

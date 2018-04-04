@@ -1,0 +1,13 @@
+.header-wrap_type_footer{
+	background-color: #fff;
+	margin-bottom: 20px
+}
+.header-wrap_type_footer .header__text, .header-wrap_type_footer a{
+	color: #000
+}
+.header-wrap_type_footer ul{
+	line-height: 0
+}
+.header-wrap_type_footer .header__logo{
+	line-height: 1
+}

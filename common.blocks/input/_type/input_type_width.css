@@ -1,0 +1,6 @@
+.input_type_width{
+	width: 350px;
+}
+.input_type_width:first-child{
+	margin-right: 42px
+}

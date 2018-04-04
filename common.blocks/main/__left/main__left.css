@@ -1,0 +1,10 @@
+.main__left, .main__right{
+
+	width: 45%;
+}
+.main__left{
+	float: left;
+}
+.main__right{
+	float: right;
+}

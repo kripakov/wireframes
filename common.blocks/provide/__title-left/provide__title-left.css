@@ -1,0 +1,16 @@
+.provide__title-left{
+	font-family: 'TitilliumWeb-Bold';
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align: left;
+    margin-bottom: 20px
+}
+
+.provide__title-left:before{
+	content: ' \25CF';
+    font-size: 120px;
+    position: relative;
+    top: 40px;
+    color: #cdcdcd;
+    right: 10px;
+}

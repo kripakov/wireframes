@@ -1,0 +1,19 @@
+.photo__item{
+	position: relative;
+	width: 300px;
+	height: 220px;
+	background-color: #cdcdcd;
+	cursor: pointer;
+	float: left;
+	margin-bottom: 2px
+}
+
+.photo__item img{
+	margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}

@@ -1,0 +1,53 @@
+.pricing__plan{
+    margin: 0 auto;
+    display: block;
+    max-width: 1000px;
+}
+
+.personal, .professional, .business, .enterprise{
+	float: left;
+	width: 275px;
+    text-align: center;
+    border-radius: 3px;
+	padding: 40px 0 40px 0;
+	border: 1px solid #777777;
+}
+.plan__personal, .plan__professional, .plan__business, .plan__enterprise{
+	width: 240px;
+	padding: 0;
+	margin-right: 1px;
+}
+.professional{
+	margin: 0 50px 0 50px
+}
+.plan__professional{
+	margin: 0;
+}
+.plan__text{
+	margin-top: 0;
+}
+.text-header{
+	font-family: "TitilliumWeb-Bold";
+	font-size: '24px';
+	text-transform: uppercase;
+	margin-bottom: 15px
+}
+.text-footer{
+	font-family: 'Titillium-Regular';
+	font-size: 18px;
+	color: #a9a7a7;
+	margin-bottom: 50px
+}
+.personal__text-footer{
+	margin-bottom: 20px
+}
+.bold {
+	float: left;
+	color: #222222;
+	font-family: "TitilliumWeb-Bold";
+}
+.wrap-text{
+	text-align: center;
+    width: 180px;
+    margin: 0 auto;
+}

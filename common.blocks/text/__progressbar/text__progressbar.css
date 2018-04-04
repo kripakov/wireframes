@@ -1,0 +1,9 @@
+.text__progressbar{
+    position: absolute;
+    bottom: -40px;
+    left: 2px;
+    font-size: 21px;
+    font-family: 'Ubuntu-Regular';
+    display: block;
+    width: 100%;
+}

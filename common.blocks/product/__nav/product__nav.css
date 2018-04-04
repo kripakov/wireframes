@@ -1,0 +1,22 @@
+.product__nav{
+	font-size: 18px;
+    font-family: "Ubuntu-Regular";
+}
+.product__nav li{
+	text-decoration: none;
+	list-style-type: none;
+}
+.product__nav div:before {
+    content: ' \25CF';
+    font-size: 46px;
+    position: relative;
+    top: 8px;
+    color: #cdcdcd;
+    right: 10px;
+}
+.product__nav li:not(:last-child){
+	margin-bottom: 30px;
+}
+.product__nav li:last-child{
+	margin-bottom: 45px;
+}

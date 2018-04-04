@@ -1,0 +1,13 @@
+.subscribe__button { 
+    padding: 10px;
+    width: 160px;
+    margin-left: 10px;
+    color: #fff;
+    text-transform: uppercase;
+}
+.button_theme_islands:before{
+	background-color: #ea6060;
+}
+.button_theme_islands span{
+	font-family: 'Titillium-Regular'
+}

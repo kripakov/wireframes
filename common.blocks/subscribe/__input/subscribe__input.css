@@ -1,0 +1,16 @@
+.subscribe__input{
+	padding: 10px;
+    width: 435px;
+}
+.subscribe__input input::-webkit-input-placeholder {
+  font-family: 'TitilliumWeb-Light';
+}
+.subscribe__input input:-ms-input-placeholder {
+  font-family: 'TitilliumWeb-Light';
+}
+.subscribe__input input:-moz-placeholder {
+  font-family: 'TitilliumWeb-Light';
+}
+.subscribe__input input::-moz-placeholder {
+  font-family: 'TitilliumWeb-Light';
+}
